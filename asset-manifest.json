@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gkeep-clone/static/css/main.8759fb8e.chunk.css",
+    "main.js": "/gkeep-clone/static/js/main.5664c800.chunk.js",
+    "main.js.map": "/gkeep-clone/static/js/main.5664c800.chunk.js.map",
+    "runtime-main.js": "/gkeep-clone/static/js/runtime-main.67f09810.js",
+    "runtime-main.js.map": "/gkeep-clone/static/js/runtime-main.67f09810.js.map",
+    "static/css/2.d65fdcc0.chunk.css": "/gkeep-clone/static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.c57e7501.chunk.js": "/gkeep-clone/static/js/2.c57e7501.chunk.js",
+    "static/js/2.c57e7501.chunk.js.map": "/gkeep-clone/static/js/2.c57e7501.chunk.js.map",
+    "index.html": "/gkeep-clone/index.html",
+    "static/css/2.d65fdcc0.chunk.css.map": "/gkeep-clone/static/css/2.d65fdcc0.chunk.css.map",
+    "static/css/main.8759fb8e.chunk.css.map": "/gkeep-clone/static/css/main.8759fb8e.chunk.css.map",
+    "static/js/2.c57e7501.chunk.js.LICENSE.txt": "/gkeep-clone/static/js/2.c57e7501.chunk.js.LICENSE.txt",
+    "static/media/Logo.ef572b75.png": "/gkeep-clone/static/media/Logo.ef572b75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67f09810.js",
+    "static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.c57e7501.chunk.js",
+    "static/css/main.8759fb8e.chunk.css",
+    "static/js/main.5664c800.chunk.js"
+  ]
+}
